@@ -1,2 +1,2 @@
-# create-react-app-webpack
-A react app initial configuration using webpack4 and babel 7
+# stackoverflow-lite-react
+Frontend implementation of StackOverflow-lite using React JS
